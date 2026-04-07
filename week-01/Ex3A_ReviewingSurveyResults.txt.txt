@@ -1,0 +1,41 @@
+1. What conclusion can you reach about the responses to this question? 
+students are focused on being prepared and organized before class.
+2. Is the default summary or visualization helpful? How could it be improved? 
+The default summary is not very helpful because responses are long and written differently.
+Improve it by:
+
+Grouping answers into categories (ex: review notes, log in early, set up materials)
+Creating a bar chart or word cloud to show common behaviors
+
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+raw response column (text answers)
+Tricky part:
+Everyone writes differently
+Same idea can be written in many ways (ex: “review notes” vs “look over material”)
+Hard to group automatically
+
+ 4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided? 
+Hard to find patterns because answers are not standardized
+Requires manual reading or text analysis
+People use different wording, spelling, and detail levels
+
+5. Now that you can see the responses, how might you recommend rephrasing this or question or the response options in a future survey?
+Makes data easier to analyze
+Helps create clear charts and insights
+
+6. Is there anything that surprised you about the survey responses?
+Yes. Many students are already well prepared, but still have similar concerns about learning and support. 
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about?
+I would log in early and review notes. I’m curious about SQL, Python, and tutoring
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help
+in how you approach teaching this class?
+Students want support and clear explanations, so the instructor should provide guidance and check in often.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not? (If you can see both pros and cons,
+you may include both. Helpful
+: honest answers.
+Not helpful: no follow-up with specific students.
