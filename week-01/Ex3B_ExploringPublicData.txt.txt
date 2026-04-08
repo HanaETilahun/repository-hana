@@ -1,0 +1,43 @@
+Start by reviewing the data.gov home page. What is this? 
+2. Go to Most Viewed Datasets. How many datasets are listed?
+
+402,370
+
+3. Find the Topic Category for Human Health. Review the range of data sources
+available for this topic. Why do you think these were tagged with the Human Health
+category?
+The Human Health category includes datasets that relate to people’s physical well-being, public health, environmental health risks, nutrition, and healthcare systems
+
+4. Go to the Food Price Outlook. Review the catalog page for this dataset. How can you
+Navigate to additional datasets from the USDA?
+Clicking on the publisher name → Economic Research Service, Department of Agriculture
+Clicking on the organization → Department of Agriculture
+Using the tags/keywords (like “food-price,” “CPI,” etc.) to find related datasets
+5. Go back to the data.gov home page. This time, click on Datasets by Organization.
+6. Try searching for your city, county, and state. What organizations are returned?
+Most results come from local DC government agencies because they collect and share data about the city.
+7. Search for USDA, and click into the result. Within the USDA datasets, search for food
+composition. Notice that the top three results are all datasets concerning nutrition
+information. Try searching the USDA page for nutrition. How does that affect your
+results?
+Searching “nutrition” gives more general and wider results, while “food composition” gives more specific, detailed datasets about nutrients.
+a) One of the tricky things about working with data is that sometimes the terminology
+used by a data source is not obvious. You may need to dig around and be creative
+to find what you’re looking for. yes
+8. Go back to the results for food composition, and click on FoodData Central. Review
+the catalog page for this data source, then click on the button for Visit Page. Take
+some time to explore the FoodData Central website.
+a) Try searching for butter, or any of your favorite foods. What kind of results do you
+get? What happens when you click on a result? Got 4 result You get detailed nutrition information about the food, and clicking shows a full breakdown of nutrients and composition.
+
+b) Go back to the home page. Find Foundation Foods, and click on Downloads. What
+kind of data can you find on this page? How big are these files? Where can you find
+more information on the data types available?
+
+On the Foundation Foods → Downloads page, you can find:
+
+Food data tables (food descriptions, nutrients, food categories)
+Nutrient values (vitamins, minerals, protein, fat, etc.)
+Files in formats like CSV and JSON
+Foundation Foods files are usually small to medium (around ~1.8 MB to ~2.3 MB for CSV)
+Some full datasets (unzipped or combined) can be larger (tens of MB) depending on format
