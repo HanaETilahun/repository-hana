@@ -59,3 +59,4 @@ print(d, type(d))
 # b: converts easily to both int and float
 # c: cannot convert to int or float because it contains letters
 # d: cannot convert to int or float because it contains words
+Ex2B_MoreMathScripts/file.py
