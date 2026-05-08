@@ -1,0 +1,29 @@
+
+# Create tuple
+states = ("New York", "California", "Texas", "Florida", "Illinois")
+# Total number of states
+print(f"Total number of states: {len(states)}")
+
+# First and last state
+print(f"First state: {states[0]}")
+print(f"Last state: {states[-1]}")
+
+# Check if Texas is in tuple
+print(f"Is Texas in the tuple? {'Texas' in states}")
+
+# Alphabetical order
+print(f"States in alphabetical order: {sorted(states)}")
+
+# Longest state name length
+longest = max(states, key=len)
+print(f"Longest state name length: {len(longest)}")
+
+#iterate with a for loop
+my_set ={"alice", "Bob", "charlie"}
+for item in my_set:
+ print(item)
+
+ my_set = {1, 2, 3, 4, 5}
+ a, b, c, d, e = my_set
+ print(a, b, c, d, e)
+ 
