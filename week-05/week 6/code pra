@@ -1,0 +1,3 @@
+
+with open("students.txt", "w") as file:
+    file.write("Alice\n")
